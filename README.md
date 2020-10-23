@@ -8,4 +8,4 @@ int a,b,c;    while(scanf("%d%d",&a,&b)!=EOF){無限迴圈+輸入法}
 
 技術協作  鍾秉儒:https://www.facebook.com/rikkasuna
 
-題目網址:https://drive.google.com/drive/folders/1ZoaoszPDgZc36lwaXeQLp2rcOGB-ptzm?usp=sharing
+題目網址:https://drive.google.com/drive/folders/1QTgRfZULheRXdOnw_QPxygVUi1l3fjce?usp=sharing
